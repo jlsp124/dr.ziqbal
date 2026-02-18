@@ -1,0 +1,30 @@
+{
+  "businessName": "DR. Z. IQBAL INC (ZAFAR, IQBAL)",
+  "category": "Medical practice",
+  "tagline": "Clear, professional contact information and patient guidance in one place.",
+  "address": "1669 VICTORIA ST, Prince George, BC V2L 2L5",
+  "phone": "250-564-3133",
+  "email": "zafari.iqbal348@gmail.com",
+  "notes": "Listing mentions seeing referred patients and doing regular follow-ups.",
+  "services": [
+    {
+      "name": "Clinic information",
+      "desc": "Location, contact, and how to reach the clinic."
+    },
+    {
+      "name": "Appointments (confirm)",
+      "desc": "How referrals work and how to book (confirm details)."
+    },
+    {
+      "name": "Patient guidance",
+      "desc": "What to bring, what to expect (to be provided)."
+    },
+    {
+      "name": "Contact",
+      "desc": "Direct email/phone with simple inquiry form."
+    }
+  ],
+  "slug": "dr-z-iqbal-inc-zafar-iqbal",
+  "mapLink": "https://www.google.com/maps/search/?api=1&query=1669%20VICTORIA%20ST%2C%20Prince%20George%2C%20BC%20V2L%202L5",
+  "serviceArea": ""
+}
