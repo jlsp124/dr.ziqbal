@@ -24,7 +24,43 @@
       "desc": "Direct email/phone with simple inquiry form."
     }
   ],
+  "palette": {
+    "bg": "#f4f9fb",
+    "text": "#1b2832",
+    "accent": "#0f6fad",
+    "accent2": "#2c7f63"
+  },
   "slug": "dr-z-iqbal-inc-zafar-iqbal",
   "mapLink": "https://www.google.com/maps/search/?api=1&query=1669%20VICTORIA%20ST%2C%20Prince%20George%2C%20BC%20V2L%202L5",
-  "serviceArea": ""
+  "serviceArea": "",
+  "placeholders": {
+    "hero": "Placeholder: hero image (clinic exterior or reception)",
+    "about": "Placeholder: reception or consultation room",
+    "homeGallery": [
+      "Placeholder: clinic exterior",
+      "Placeholder: reception desk",
+      "Placeholder: waiting area",
+      "Placeholder: consultation room",
+      "Placeholder: patient guidance board",
+      "Placeholder: appointment desk",
+      "Placeholder: contact signage",
+      "Placeholder: referral process graphic",
+      "Placeholder: follow-up information card",
+      "Placeholder: clinic interior detail",
+      "Placeholder: team photo",
+      "Placeholder: Prince George location context"
+    ],
+    "servicesGallery": [
+      "Placeholder: clinic information area",
+      "Placeholder: referral pathway visual",
+      "Placeholder: appointment information",
+      "Placeholder: what to bring",
+      "Placeholder: follow-up guidance",
+      "Placeholder: patient communication details",
+      "Placeholder: contact workflow",
+      "Placeholder: reception area",
+      "Placeholder: map/location support",
+      "Placeholder: clinic branding photo"
+    ]
+  }
 }
